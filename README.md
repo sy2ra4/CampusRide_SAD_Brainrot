@@ -63,7 +63,7 @@ Academic research papers on ride-sharing services in urban environments were rev
 
 ## Feasibility Analysis
 
-Feasibility of the project has been analyzed and recomendation were given here. for example, the initial phase of the project has negative cash flow but is expected to break even within a year with appropriate scaling and partner development.
+Feasibility of the project has been analyzed and recomendation were given here. For example, the initial phase of the project has negative cash flow but is expected to break even within a year with appropriate scaling and partner development.
 
 ## System Design
 
