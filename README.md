@@ -1,6 +1,6 @@
 # CampusRide - University Ride-Sharing System
 
-This Software Requirement Specification (SRS) was created by Syed Rafidul Alam, Sayed Hasan Sami, Sheikh Sadi, Badhon Dalbot, Sunjana Binte Shameem as a part of the evaluation for System Analysis and Design (CSE 3411) course at United International University in Spring 2025 trimester.
+This Software Requirement Specification (SRS) was created by Syed Rafidul Alam, Sayed Hasan Sami, Sheikh Sadi, Badhon Dalbot, and Sunjana Binte Shameem as a part of the evaluation for System Analysis and Design (CSE 3411) course at United International University in Spring 2025 trimester.
 
 ## Overview
 
